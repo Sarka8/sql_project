@@ -12,11 +12,11 @@ As additional material, I have also prepared a table with GDP, GINI coefficient,
 
 ## Outputs of the project
 
-The output is two tables in the database from which the required data can be obtained. The tables are named: t_Sarka_Praxova_project_SQL_primary_final (for wage and food price data for the Czech Republic aggregated to the same comparable period - common years) and t_Sarka_Praxova_project_SQL_secondary_final (for additional data on other European countries).
+The output is two tables in the database from which the required data can be obtained. The tables are named: **t_Sarka_Praxova_project_SQL_primary_final** (for wage and food price data for the Czech Republic aggregated to the same comparable period - common years) and **t_Sarka_Praxova_project_SQL_secondary_final** (for additional data on other European countries).
 
-Furthermore, I prepared a set of SQL that extracts the data from the prepared tables to answer the set research questions.
+Furthermore, I prepared a **set of SQL that extracts the data from the prepared tables to answer the set research questions**.
 
-In the repository, all information about the project is stored - the SQL script generating the result table, the description of intermediate results (accompanying list) in markdown (.md) format and information about the output data (for example, where missing values are, etc.).
+In the repository, all information about the project is stored - the SQL script generating the result table, the description of intermediate results - **Pruvodni listina.md**  and information about the output data.
 
 ##  Research questions
 1. Have wages been rising over the years in all sectors, or have they been falling in some sectors?
