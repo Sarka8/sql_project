@@ -6,7 +6,7 @@ This project is my **final output** of Data Academy at Engeto.
 
 In our analytical department of an independent company that deals with the standard of living of citizens, we have agreed to try to answer a few defined research questions that address the availability of basic foodstuffs to the general public. Our colleagues have already defined the basic questions they will try to answer and provide this information to the press department. This department will present the results at the next conference focused on this area.
 
-I have prepared robust data that shows a comparison of food availability based on average incomes over a certain period of time.
+I have prepared robust data that shows a **comparison of food availability based on average incomes over a certain period of time**.
 
 As additional material, I have also prepared a table with GDP, GINI coefficient, and population of other European countries in the same period as a primary overview for the Czech Republic.
 
