@@ -25,4 +25,4 @@ In the repository, all information about the project is stored - the SQL script 
 4. Is there a year in which the annual increase in food prices was significantly higher than the increase in wages (greater than 10%)?
 5. Does the level of GDP affect changes in wages and food prices? Or, if GDP rises more significantly in one year, does this translate into a more significant rise in food prices or wages in the same or subsequent year?
 
-Answers to the research questions can be found in the file [Pruvodni listina.md]()
+Answers to the research questions can be found in the file [Pruvodni listina.md](https://github.com/Sarka8/sql_project/blob/main/Pruvodni%20listina.md)
